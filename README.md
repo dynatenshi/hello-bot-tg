@@ -30,10 +30,14 @@
 ```text
 Привет
 Привет, user name!!!
+```
 
+```text
 hola
 Hola, user name!!!
+```
 
+```text
 /add hi английский
 /rm konnichiwa
 ```
